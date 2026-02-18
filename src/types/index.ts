@@ -1,1 +1,1 @@
-export type { Transaction } from './transaction';
+export type { Transaction, Transactions } from './transaction';

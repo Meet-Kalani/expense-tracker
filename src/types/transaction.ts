@@ -5,3 +5,7 @@ export type Transaction = {
   date: Date;
   note?: string;
 };
+
+export type Transactions = {
+  items: Transaction[];
+};
